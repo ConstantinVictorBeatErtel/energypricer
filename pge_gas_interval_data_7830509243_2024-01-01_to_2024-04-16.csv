@@ -1,9 +1,4 @@
-﻿Name,Constantin Ertel
-Address,"1674 WASHINGTON ST 3, SAN FRANCISCO CA 94109-3137"
-Account Number,7834295908
-Service,7830509243
-
-TYPE,DATE,USAGE,UNITS,COST,NOTES
+﻿TYPE,DATE,USAGE,UNITS,COST,NOTES
 Natural gas usage,2024-01-01,0.00,therms,$0.00,
 Natural gas usage,2024-01-02,0.00,therms,$0.00,
 Natural gas usage,2024-01-03,0.00,therms,$0.00,
